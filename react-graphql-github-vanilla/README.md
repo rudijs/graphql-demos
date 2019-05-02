@@ -6,5 +6,6 @@ From the section "React with GraphQL" using vanilla reactjs - no apollo client.
 
 ## Setup
 
+- `npm install`
 - `export REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN=xxxxxxx`
 - `npm start`
